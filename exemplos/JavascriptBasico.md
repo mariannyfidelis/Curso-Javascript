@@ -6,6 +6,8 @@
 4. Arrays
 5. Funções
 6. Objetos
+7. Estruturas condicionais
+8. Estruturas de repetição
 
 ## Links importantes
 
