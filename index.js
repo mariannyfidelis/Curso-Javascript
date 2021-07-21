@@ -16,3 +16,9 @@ let nomeCliente="Adriano";
 //Declarações de variáveis são case sensitive
 //Não é possível redeclarar variáveis com o "let"
 //Atualmente é importante utilizar o LET no lugar de VAR
+
+//Sobre constantes :
+  // Não podemos modificar o valor de uma constante
+  // Deve-se utilizar a palavra reservada const
+const PI=3.1415
+console.log(typeof PI);
